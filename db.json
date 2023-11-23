@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "shali",
+      "age": "20",
+      "role": "React Developer"
+    },
+    {
+      "id": 2,
+      "name": "Junaid Bokhari",
+      "age": "28",
+      "role": "MERN Stack"
+    },
+    {
+      "id": 3,
+      "name": "Nouman",
+      "age": "27",
+      "role": "Python Developer"
+    },
+    {
+      "name": "Hasnat",
+      "age": "29",
+      "role": "Android Developer React",
+      "id": 4
+    },
+    {
+      "name": "s",
+      "age": "s",
+      "role": "s",
+      "id": 5
+    },
+    {
+      "name": "Lalu",
+      "age": "dd",
+      "role": "ddd",
+      "id": 6
+    },
+    {
+      "name": "hi",
+      "age": "4",
+      "role": "de",
+      "id": 7
+    },
+    {
+      "name": "Shali Khan",
+      "age": "3",
+      "role": "1",
+      "id": 8
+    },
+    {
+      "name": "sd",
+      "age": "sada",
+      "role": "sad",
+      "id": 9
+    },
+    {
+      "name": "s",
+      "age": "s",
+      "role": "s",
+      "id": 10
+    },
+    {
+      "name": "sd",
+      "age": "s",
+      "role": "s",
+      "id": 11
+    },
+    {
+      "name": "shali",
+      "age": "23",
+      "role": "React",
+      "id": 12
+    },
+    {
+      "name": "shali",
+      "age": "23",
+      "role": "React",
+      "id": 13
+    },
+    {
+      "name": "r",
+      "age": "34",
+      "role": "e",
+      "id": 14
+    },
+    {
+      "name": "shawal",
+      "age": "29",
+      "role": "Dev",
+      "id": 15
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Shawal Ali khan",
+      "age": "25",
+      "role": "React Developer"
+    },
+    {
+      "id": 2,
+      "name": "Junaid Bokhari",
+      "age": "24",
+      "role": "MERN Stack"
+    },
+    {
+      "id": 3,
+      "name": "Nouman",
+      "age": "27",
+      "role": "Python Developer"
+    },
+    {
+      "name": "Hasnat",
+      "age": "29",
+      "role": "Android Developer React",
+      "id": 4
+    },
+    {
+      "name": "s",
+      "age": "s",
+      "role": "s",
+      "id": 5
+    },
+    {
+      "name": "aaaaaa",
+      "age": "dd",
+      "role": "ddd",
+      "id": 6
+    }
+  ]
+}
